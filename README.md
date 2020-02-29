@@ -3,7 +3,7 @@ My attempt of building the bitcoin from scratch. I wrote this to better understa
 
 ## Components
 - [ ] Coin <br/>
-	- [ ]Chain of digital signatures - elliptical curve digital signature algorithm [[link](https://github.com/warner/python-ecdsa)].
+	- [ ] Chain of digital signatures - elliptical curve digital signature algorithm [[link](https://github.com/warner/python-ecdsa)].
 	 Transfer of a coin - digitally sign [`previous transaction + public key of next owner`]. 
 	 Code for a simple `ecdsa`:*(from stackoverflow)* <br/>
 	 Usage: <br/>
