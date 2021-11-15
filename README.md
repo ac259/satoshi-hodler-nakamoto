@@ -48,5 +48,5 @@ Circulation of coins
 	- [ ] Maximum number of coins
 	- [ ] Limiting the number of blocks produced
 	- [ ] Mining incentives
-
+ 
 - [ ] Network 
